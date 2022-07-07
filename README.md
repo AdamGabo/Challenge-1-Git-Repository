@@ -10,8 +10,8 @@ CONTENTS OF THIS FILE
 
 INTRODUCTION
 ------------
-This webpage provides users with a unique experience! The HTML page has all of the requried semantic HTML elements that meets accessibility standards and optimized for search engines. 
-Please review the code via the Chrome Dev Tools to see whats behind the curtain! 
+This webpage provides users with a unique experience! The HTML page has all of the requried semantic HTML elements that meets accessibility standards. 
+Please review the code via the Chrome Dev Tools to see what's behind the curtain! 
 
 BUILT-WITH
 ----------
@@ -20,7 +20,7 @@ BUILT-WITH
 
 ABOUT THE WEBSITE
 -----------------
-Description: This website has been refactored to meet accesibility standards for modern websites. It provides users a platform to navigate Horiseon Search Engine Optimization services. 
+Description: This website has been refactored to meet accessibility standards for modern web browsers. It provides users a platform to navigate Horiseon Search Engine Optimization services. 
 
 * Please use the following link to navigate to the deployed website: https://adamgabo.github.io/Challenge-1-Git-Repository/
 * GitHub Link: https://github.com/AdamGabo/Challenge-1-Git-Repository
