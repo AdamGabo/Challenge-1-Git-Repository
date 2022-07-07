@@ -20,7 +20,7 @@ BUILT-WITH
 
 ABOUT THE WEBSITE
 -----------------
-Description: This website has been refactored to meet accesibility standards for modern websites. It provides users a platform to navigate Horiseion Search Engine Optimization services. 
+Description: This website has been refactored to meet accesibility standards for modern websites. It provides users a platform to navigate Horiseon Search Engine Optimization services. 
 
 * Please use the following link to navigate to the deployed website: https://adamgabo.github.io/Challenge-1-Git-Repository/
 * GitHub Link: https://github.com/AdamGabo/Challenge-1-Git-Repository
