@@ -22,7 +22,8 @@ ABOUT THE WEBSITE
 -----------------
 Description: This website has been refactored to meet accesibility standards for modern websites. It provides users a platform to navigate Horiseion Search Engine Optimization services. 
 
-* Please use the following link to navigate to the website: https://adamgabo.github.io/Challenge-1-Git-Repository/
+* Please use the following link to navigate to the deployed website: https://adamgabo.github.io/Challenge-1-Git-Repository/
+* GitHub Link: https://github.com/AdamGabo/Challenge-1-Git-Repository
 * Webpage Preview: ![Alt text](/Develop/assets/images/Website%20Screenshot.PNG?raw=true "Webpage Preview")
 
 MAINTAINERS
