@@ -24,7 +24,7 @@ Description: This website has been refactored to meet accesibility standards for
 
 * Please use the following link to navigate to the deployed website: https://adamgabo.github.io/Challenge-1-Git-Repository/
 * GitHub Link: https://github.com/AdamGabo/Challenge-1-Git-Repository
-* Webpage Preview: ![Alt text](https://github.com/AdamGabo/Challenge-1-Git-Repository/blob/assets/images/Website%20Screenshot.PNG?raw=true "Webpage Preview")
+* Webpage Preview: ![Alt text](./assets/images/Website%20Screenshot.PNG?raw=true "Webpage Preview")
 
 MAINTAINERS
 -----------
